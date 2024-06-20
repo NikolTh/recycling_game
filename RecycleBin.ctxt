@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=RecycleBin
+comment1.params=acceptedType
+comment1.target=RecycleBin(java.lang.String)
+comment2.params=
+comment2.target=void\ setImageBasedOnType()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ checkForTrash()
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PopUp
+comment1.params=
+comment1.target=void\ act()
+comment2.params=text\ score
+comment2.target=PopUp(java.lang.String,\ int)
+comment3.params=title\ prefix\ score
+comment3.target=void\ makeImage(java.lang.String,\ java.lang.String,\ int)
+numComments=4

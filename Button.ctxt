@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Button
+comment1.params=text
+comment1.target=Button(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=text\ fontSize\ textColor\ bgColor\ width\ height\ arcSize
+comment3.target=greenfoot.GreenfootImage\ createRoundedImage(java.lang.String,\ int,\ greenfoot.Color,\ greenfoot.Color,\ int,\ int,\ int)
+numComments=4
